@@ -1,0 +1,5 @@
+@extends('layouts.app')
+@extends('admin.component.staff')
+@extends('admin.layout.navbarAdmin')
+@extends('admin.layout.sidebarAdmin')
+@extends('admin.content.staff')
