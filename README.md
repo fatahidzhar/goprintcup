@@ -1,5 +1,5 @@
 
-# Go Print Project Project
+# Go Print Project
 
 ## Service
 
